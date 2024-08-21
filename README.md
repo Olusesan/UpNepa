@@ -1,6 +1,6 @@
 # UpNepa
 A Power Management Application Project for Unite Learning 
-This is a collaborative project for Unite Learninng students class of March 2024.  
+This is a collaborative project for Unite Learning students class of March 2024.  
 
 # About the project
 
@@ -10,7 +10,8 @@ neighborhoods. The goal of this project is to use survey to collect direct infor
 
 # Contributions
 
-We are seeking contributors to add to this project and expend its scope. We need help continous and contemporary data collection better visualization to compare data and update to 
-our interface design. If you want to add this as a school project or if you have any other questions, please reach out to unite_learning@gmail.com  
+Contributors are in the driving seat of a project like this so students can learn how to use programming to solve their own local problems. We need help with continous and contemporary data collection, better visualization for data comparison and expansion to more cities in Africa.  To add to this project, please fork the repo and create a pull request or simply open an issue with the tag "update". If you want to add this as a school project or if you have any other questions, please reach out to unite_learning@gmail.com  Don't forget to give the project a star! Thanks again! 
 
 <img width="979" alt="Screenshot 2024-08-21 at 11 20 16 AM" src="https://github.com/user-attachments/assets/c06210dd-34a4-4021-97d7-740eda693c84">
+
+
